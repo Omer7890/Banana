@@ -1,0 +1,13 @@
+streamlit
+python-binance
+pandas
+pandas_ta
+yfinance
+tradingview_ta
+requests
+scikit-learn
+joblib
+matplotlib
+plotly
+flask
+pyngrok
