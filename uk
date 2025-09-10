@@ -62,7 +62,8 @@ setInterval(fetchSignals, 60000);
 </body>
 </html>
 '''
-
+!git add app.py
+!git commit -m "Add app.py (crypto script)"
 # Chart template with timeframe selector + volume spikes
 CHART_TEMPLATE = '''
 <!doctype html>
